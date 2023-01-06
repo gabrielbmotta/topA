@@ -1,0 +1,6 @@
+[submodule "MidB"]
+	path = MidB
+	url = git@github.com:gabrielbmotta/MidB.git
+[submodule "MidC"]
+	path = MidC
+	url = git@github.com:gabrielbmotta/MidC.git
